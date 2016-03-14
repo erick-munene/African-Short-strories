@@ -1,10 +1,10 @@
 .page {
-	 border: 1px solid #665544;
+	 border: 1px solid orange;
 
 }
 
 body {
-    background-color: lightcyan;
+    background-color: black;
 }
 
 h1 {
@@ -23,6 +23,7 @@ h2 {
 }
 
 p {
+    color: whitesmoke;
     font-family: "Arial";
     font-size: 20px;
 }
