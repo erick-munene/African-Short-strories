@@ -12,6 +12,10 @@ h1 {
     text-align: center;
 }
 
+h6 {
+    background-color:antiquewhite;
+}
+
 p {
     font-family: "Arial";
     font-size: 20px;
