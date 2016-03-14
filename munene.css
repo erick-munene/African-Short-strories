@@ -10,10 +10,16 @@ body {
 h1 {
     color: orange;
     text-align: center;
+    
+    font-family: "Times New Roman";
+    font-size: 30px;
 }
 
 h6 {
     background-color:antiquewhite;
+    
+    font-family: "Times New Roman";
+    font-size: 25px;
 }
 
 p {
