@@ -1,3 +1,5 @@
+
+
 page {
 	 border: 1px solid orange;
 
@@ -27,3 +29,88 @@ a {
     font-family: "Arial";
     font-size: 20px;
 }
+
+
+page {
+	 border: 1px solid orange;
+
+}
+
+
+
+
+h1 {
+    color: orange;
+    text-align: center;
+    
+    font-family: "Times New Roman";
+    font-size: 40px;
+}
+
+h2 {
+    background-color:antiquewhite;
+    
+    font-family: "Times New Roman";
+    font-size: 25px;
+}
+
+p {
+    color: whitesmoke;
+    font-family: "Arial";
+    font-size: 20px;
+}
+
+nav {
+   
+    text-transform: uppercase;
+    font-family: "Times New Roman";
+    font-size: 30px;
+    color: aliceblue;
+}
+
+li {
+   background-color: black;
+    text-transform: uppercase;
+    font-family: "Times New Roman";
+    font-size: 30px;
+    color: aliceblue;
+}
+
+ul {
+   background-color: black;
+  
+}
+
+menu {
+    background-color: black;
+    color: gold;
+ shape-margin: round;
+margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+   text-align: justify;
+
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px (black);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    background-color: black;
+    color: orange;
+}  
+
