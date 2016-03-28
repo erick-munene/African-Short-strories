@@ -1,17 +1,17 @@
-#dropdown {
-    background-image: url("images/green.jpg");
+.dropdown {
+    background-color: gold;
     background-size: 5px;
     font-family: monospace;
     font-size: 32;
     font-stretch: expanded;
-     color: gold;
+    color: gold;
     font-weight: 200;
     font-feature-settings: normal;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-bottom: 10px;
     margin-top: 10;
-    height: 100px;
+    height:50px;
     align-content: flex-end;
     
 }
