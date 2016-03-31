@@ -79,7 +79,7 @@ li {
     text-transform: uppercase;
     font-family: "Times New Roman";
     font-size: 30px;
-    color: aliceblue;
+    color: darksalmon;
 }
 
 ul {
@@ -89,17 +89,17 @@ ul {
 
 menu {
     background-color: black;
-    color: gold;
- shape-margin: round;
-margin-top: auto;
+    color:navajowhite;
+    shape-margin: round;
+    margin-top: 2px;
     margin-left: auto;
     margin-right: auto;
-   text-align: justify;
+    text-align: justify;
 
 }
 
 .dropdown {
-    background-color: gold;
+    background-color: darksalmon;
     background-size: 5px;
     font-family: monospace;
     font-size: 32;
@@ -117,7 +117,7 @@ margin-top: auto;
 
 .dropbtn {
     position: relative;
-     background-color: orange;
+     background-color: gold;
     color: black;
     padding: 16px;
     font-size: 18px;
@@ -130,7 +130,7 @@ margin-top: auto;
     position: absolute;
     text-align: left;
     color: black;
-    background-color: orange;
+    background-color: gold;
     min-width: 160px;
     box-shadow: 0px 8px 10px 0px (black);
     padding: 12px 16px;
@@ -139,19 +139,19 @@ margin-top: auto;
 
 .dropdown:hover .dropdown-content {
     display: block;
-    background-color: orange;
+    background-color: gold;
     text-align: left;
     font-style: italic;
-    color: black;
+    font-variant-east-asian: normal;
 }  
 
 #footer {
-    background-color: burlywood;
+    background-color: darksalmon;
     color: black;
     font-family: "Times New Roman";
     font-size: 13px;
     text-align: center;
-    margin-top: 20;
+    margin-top: 20px;
     padding-top: 15px;
     height: 10%;
 }
